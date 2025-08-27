@@ -1,0 +1,16 @@
+body {
+     background-color: lightslategray;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.projects{
+    color: #000;
+}
+
+.port{
+    color: #000;
+}
